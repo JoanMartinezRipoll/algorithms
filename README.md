@@ -1,0 +1,4 @@
+excercies
+=========
+
+Simple java exercises
